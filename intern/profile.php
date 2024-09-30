@@ -45,11 +45,7 @@ ob_end_flush();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title><Credit-Manager></Credit-Manager></title>
-        <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+   
 
     <!-- Bootstrap CSS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> 
